@@ -1,0 +1,9 @@
+matplotlib==3.5.2
+numpy==1.22.3
+opencv_python==4.5.5.62
+pandas==1.4.2
+PIMS==0.6.0
+tqdm==4.64.0
+av==9.2.0
+imageio==2.19.1
+moviepy==1.0.3
