@@ -4,3 +4,5 @@ It is a prototype software for extracting statistics on floating debris, and thi
 Source code is available at https://github.com/Deltares/plastic-monitor, contact is Marieke Eleveld (marieke.eleveld@deltares.nl).
 The code was developed for research, and is distributed under the MIT license (without any warrantee) in the hope that it can be useful.
 Please refer to https://github.com/Deltares/plastic-monitor, and our ESA Living Planet conference contribution (Reference for PLASTIC-MONITOR.pdf). 
+
+Complementary results from an analysis of satellite images can be found at http://deltaresdata.openearth.eu/thredds/catalog/plastic_monitor/catalog.html
